@@ -5,6 +5,7 @@ This is a simple template for OpenGL application based on GNU Make.
 *** Build Instructions
 #+BEGIN_SRC bash
 
+mkdir build
 make
 make run
 
